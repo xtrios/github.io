@@ -60,7 +60,7 @@ The source code for this project can be found at the following links:
 
 - Github repository: https://github.com/xtrios/DDP
 - Shiny app for mtcars visualization: http://xtrios.shinyapps.io/DDP-mtcars
-- Location of Slidify deck: http://xtrios.github.io
+- Location of Slidify deck: http://xtrios.github.io/slidify-deck/
 
 Try out the app now at: https://github.com/xtrios/DDP!
 
