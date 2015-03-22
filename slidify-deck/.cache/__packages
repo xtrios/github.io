@@ -1,0 +1,13 @@
+base
+lattice
+ggplot2
+caret
+randomForest
+foreach
+iterators
+doParallel
+dplyr
+shiny
+corrplot
+devtools
+slidify
